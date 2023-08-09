@@ -1,0 +1,6 @@
+nombre=input("Ingrese el nombre")
+edad=int(input("Ingrese su edad"))
+edad1=float(input("ingrese su casa"))
+print(nombre)
+print(edad)
+print(edad1)
